@@ -118,9 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BotToken" xml:space="preserve">
-    <value>bdtioazcut3mvzt5ekb98jz21i9ncb</value>
+    <value />
   </data>
   <data name="ChannelName" xml:space="preserve">
-    <value>lucas_salomao</value>
+    <value />
   </data>
 </root>

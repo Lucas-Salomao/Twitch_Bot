@@ -61,7 +61,7 @@ namespace Twitch_Bot {
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a bdtioazcut3mvzt5ekb98jz21i9ncb.
+        ///   Consulta uma cadeia de caracteres localizada semelhante a .
         /// </summary>
         internal static string BotToken {
             get {
@@ -70,7 +70,7 @@ namespace Twitch_Bot {
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a lucas_salomao.
+        ///   Consulta uma cadeia de caracteres localizada semelhante a .
         /// </summary>
         internal static string ChannelName {
             get {

@@ -61,7 +61,7 @@ namespace Twitch_Bot {
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a 7wwhuqqeb7zgydb4mqkk.
+        ///   Consulta uma cadeia de caracteres localizada semelhante a .
         /// </summary>
         internal static string Access_ID {
             get {
@@ -70,7 +70,7 @@ namespace Twitch_Bot {
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a bc07bfe2f60d4029b4763276816cf001.
+        ///   Consulta uma cadeia de caracteres localizada semelhante a .
         /// </summary>
         internal static string Access_Secret {
             get {
@@ -79,7 +79,7 @@ namespace Twitch_Bot {
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a eb6e66fc157e1034d45lag.
+        ///   Consulta uma cadeia de caracteres localizada semelhante a .
         /// </summary>
         internal static string lampada_quarto_ID {
             get {

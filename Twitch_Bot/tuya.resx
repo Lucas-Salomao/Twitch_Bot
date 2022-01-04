@@ -118,12 +118,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Access_ID" xml:space="preserve">
-    <value>7wwhuqqeb7zgydb4mqkk</value>
+    <value />
   </data>
   <data name="Access_Secret" xml:space="preserve">
-    <value>bc07bfe2f60d4029b4763276816cf001</value>
+    <value />
   </data>
   <data name="lampada_quarto_ID" xml:space="preserve">
-    <value>eb6e66fc157e1034d45lag</value>
+    <value />
   </data>
 </root>
