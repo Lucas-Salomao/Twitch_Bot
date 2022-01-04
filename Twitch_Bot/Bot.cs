@@ -87,6 +87,9 @@ namespace Twitch_Bot
                     argumentos=(e.Command.ArgumentsAsList);
                     cor(Convert.ToInt16(argumentos[0]), Convert.ToInt16(argumentos[1]), Convert.ToInt16(argumentos[2]));
                     break;
+                default:
+                    client.SendMessage(TwitchInfo.ChannelName, "Esse comando não existe, verifique os comandos com !comandos");
+                    break;
             }
 
 
